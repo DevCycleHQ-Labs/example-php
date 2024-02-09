@@ -29,9 +29,9 @@ You can find this under [Settings > Environments](https://app.devcycle.com/r/env
 
 ### Development
 
-`cd public && php -S localhost:8080`
+`cd public && php -S localhost:8000`
 
-Runs the app in the development mode. Requests may be sent to http://localhost:8080
+Runs the app in the development mode. Requests may be sent to http://localhost:8000
 
 ## Documentation
 For more information about using the DevCycle PHP Server SDK, see [the documentation](https://docs.devcycle.com/sdk/server-side-sdks/php/)
