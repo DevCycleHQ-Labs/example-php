@@ -89,7 +89,7 @@ code {
   border-radius: 6px;
   padding: 1.2em;
   font-size: 20px;
-  margin-bottom: 1em;
+  margin-bottom: 2em;
 }
 
 .ToggleBot-message:after {
@@ -107,7 +107,7 @@ code {
 }
 
 .ToggleBot-logo {
-  height: 220px;
+  height: 200px;
   margin: 1em;
   pointer-events: none;
 }
